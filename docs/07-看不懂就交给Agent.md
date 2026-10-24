@@ -25,7 +25,7 @@ AI 最擅长的就是这种"按已知步骤带人做事"。
 把 GitHub 仓库地址直接发它：
 
 ```
-https://github.com/你的用户名/reality-443
+https://github.com/V4m0s/reality-443
 ```
 
 大多数 AI 能直接读网页。
@@ -43,7 +43,7 @@ https://github.com/你的用户名/reality-443
 ## 直接复制这段提示词
 
 ```
-我想自己搭一条网络线路，仓库在这里：<贴地址或附件>
+我想自己搭一条网络线路，仓库在这里：https://github.com/V4m0s/reality-443
 
 我的情况：
 - 我完全不懂技术，只会双击和复制粘贴
