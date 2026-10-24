@@ -79,7 +79,7 @@ geosite.dat
         }
       }
     },
-    { "tag": "direct", "protocol": "freedom" },
+    { "tag": "direct", "protocol": "freedom", "domainStrategy": "UseIPv4" },
     { "tag": "block", "protocol": "blackhole" }
   ],
   "routing": {
