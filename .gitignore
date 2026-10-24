@@ -1,0 +1,5 @@
+*.pem
+*.log
+node-qr.png
+.DS_Store
+*.zip
